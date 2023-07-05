@@ -1,0 +1,524 @@
+{
+    "body": [
+        {
+            "title": "Engine Health Management",
+            "domain": "prattwhitney.com",
+            "url": "https://www.prattwhitney.com/en/services/pwc-engine-services/digital-engine-health-management",
+            "image": "ehm.jpg",
+            "when": 2018,
+            "role": "Front End Lead Developer",
+            "description": "Powerful and flexible app for deep analysis of jet engine data points, heavy on the E-Charts.",
+            "stack": "Vue, Vuex, JavaScript, TypeScript, Jest, E-Charts"
+        },
+        {
+            "title": "Flight Profile Optimization",
+            "domain": "collinsaerospace.com",
+            "url": "https://www.collinsaerospace.com/what-we-do/industries/commercial-aviation/connected-cockpit/flighthub-electronic-flight-folder/flight-profile-optimization",
+            "image": "fpo.jpg",
+            "when": 2019,
+            "role": "Front End Lead Developer",
+            "description": "Rapid Prototyped this real-time Flight Profile Optimization web app for iPad using Vue and MapBox.",
+            "stack": "Vue, Vuex, JavaScript, MapBox"
+        },
+        {
+            "title": "United Technologies Digital",
+            "domain": "digital.utc.com",
+            "url": "digital.utc.com",
+            "image": "utc.jpg",
+            "when": 2018,
+            "role": "Front End Lead Developer",
+            "description": "First project at UTC Digital Accelerator. Responsive, Progressive Web App in Vue2.",
+            "stack": "Vue, Vuex, PostCSS, JavaScript, Jest"
+        },
+        {
+            "title": "Madison Square Garden",
+            "domain": "msg.com",
+            "url": "msg.com",
+            "image": "msg.jpg",
+            "when": 2017,
+            "role": "Senior Front End Developer",
+            "description": "Created components including the home banner still in place. This was a great team, made me passionate about linting, testing, solid PRs, and QA.",
+            "stack": "React, Redux, Jest, SCSS, JavaScript"
+        },
+        {
+            "title": "High 5 Casino",
+            "domain": "high5casino.net",
+            "url": "high5casino.net",
+            "image": "h5c.jpg",
+            "when": 2015,
+            "role": "Front End Lead Developer",
+            "description": "Front End Lead for Lobby and Game Features in HTML5, I also got to animate the casino lobby backgrounds every other week, so fun! VelocityJS with HTML5 Audio API with audio sprites, high performance.",
+            "stack": "HTML5, CSS3, JavaScript"
+        },
+        {
+            "title": "High 5 Games",
+            "domain": "high5games.com",
+            "url": "high5games.com",
+            "image": "h5g.jpg",
+            "when": 2014,
+            "role": "Front End Lead Developer",
+            "description": "Front End Lead for the matketing site in WP.",
+            "stack": "WordPress, HTML5, CSS3, JavaScript, PHP"
+        },
+        {
+            "title": "HPS Worldwide",
+            "domain": "hps-ww.com",
+            "url": "hps-ww.com",
+            "image": "hps.jpg",
+            "when": 2014,
+            "role": "Front End Lead Developer",
+            "description": "Bespoke single page site using geolocation api and more.",
+            "stack": "HTML5, CSS3, JavaScript"
+        },
+        {
+            "title": "Havas Health",
+            "domain": "havashealth.com",
+            "url": "havashealth.com",
+            "image": "havas.jpg",
+            "when": 2013,
+            "role": "Front End Lead Developer",
+            "description": "Bespoke single page site using geolocation api and more.",
+            "stack": "HTML5, CSS3, JavaScript"
+        },
+        {
+            "title": "Blades",
+            "domain": "blades.com",
+            "url": "blades.com",
+            "image": "blades.png",
+            "when": 2011,
+            "role": "Front End Lead Developer",
+            "description": "Designed by BigBully Creative. The blades crew was already into wordpress, I love projects that make things easy for the client. Solve problems without creating new ones. Proud of this one, it was on time(of course), and on target.",
+            "stack": "HTML5, CSS, JavaScript, PHP, Wordpress"
+        },
+        {
+            "title": "Fashion Institute of Technology",
+            "domain": "fitnyc.edu",
+            "url": "fitnyc.edu",
+            "image": "fit.jpg",
+            "when": 2001,
+            "role": "Front End Development",
+            "description": "Custom application with bespoke CMS using xml and soap, the entire site lasted over 5 years.",
+            "stack": "XML, XSLT, CSS, JsvaScript"
+        },
+        {
+            "title": "The Milarepa Fund",
+            "domain": "milarepa.org",
+            "url": "milarepa.org",
+            "image": "milarepa.jpg",
+            "when": 2001,
+            "role": "Development",
+            "description": "Custom site for Adam Youch's Milarepa Fund. Yes that's an array of pop-up windows!",
+            "stack": "HTML, CSS and JavaScript"
+        },
+        {
+            "title": "General Assembly",
+            "domain": "generalassemb.ly",
+            "url": "generalassemb.ly",
+            "image": "generalassembly.jpg",
+            "when": 2009,
+            "role": "Development",
+            "description": "I made the first General Assembly site, just a placeholder.",
+            "stack": "XHTML, CSS and JavaScript"
+        },
+        {
+            "title": "Bonia Shur",
+            "domain": "boniashur.com",
+            "url": "boniashur.com",
+            "image": "boniashur.jpg",
+            "when": 2012,
+            "role": "Web Development",
+            "description": "Designed by Mia at Eyeballnyc. This site celebrates the Diary of Bonia Shur. Delivered in 10 days, this site has loads of front-end work, including custom HTML5 audio players, and everying works, even on the kindle fire, android phones, and of course, iOS devices.",
+            "stack": "HTML5, CSS, jQuery, custom JavaScript, custom PHP, Wordpress"
+        },
+        {
+            "title": "Marymount New York",
+            "domain": "marymountnyc.org",
+            "url": "marymountnyc.org",
+            "image": "marymount.jpg",
+            "when": 2008,
+            "role": "Complete project - Design and Development",
+            "description": "Came up with an idea for a whole new site for my daughter's school. They liked the idea, now we all seem to like the result. This is the best sample of my professionalism as a 'one man shop'.",
+            "stack": "HTML5, CSS, JavaScript, PHP, Wordpress, Google calendars, Diamond Mind"
+        },
+        {
+            "title": "American Grown - Michelle Obama",
+            "domain": "americangrown.com",
+            "url": "americangrown.com",
+            "image": "americangrown.jpg",
+            "when": 2012,
+            "role": "Web Development",
+            "description": "Worked with Bigbully on this site for First Lady Michelle Obama's book, of course I'm proud of this site. Built upon wordpress, with parallax scrolling. It's also subtly responsive, using @media css.",
+            "stack": "HTML5, CSS, JavaScript, PHP, Wordpress"
+        },
+        {
+            "title": "Tony Danza",
+            "domain": "tonydanza.com",
+            "url": "tonydanza.com",
+            "image": "tonydanza.jpg",
+            "when": 2012,
+            "role": "Web Development",
+            "description": "Developed with Bigbully. I like this snappy little site for Tony Danza's book. And I am now a huge fan of Tony Danza!",
+            "stack": "HTML5, CSS, JavaScript, PHP, Wordpress"
+        },
+        {
+            "title": "Sure Iron Works",
+            "domain": "sureiron.com",
+            "url": "sureiron.com",
+            "image": "sureiron.jpg",
+            "when": 2013,
+            "role": "Design and Development",
+            "description": "Custom static site, HTML5 using a couple of jQuery plugins that I hacked, extensive AJAX/AJAH and various animations.",
+            "stack": "HTML5, CSS, jQuery, AJAX"
+        },
+        {
+            "title": "East Asian Studies at Princeton",
+            "domain": "eastasia.princeton.edu",
+            "url": "eastasia.princeton.edu",
+            "image": "princeton-eas-department.jpg",
+            "when": 2009,
+            "role": "Development FE & BE",
+            "description": "Designed by Jimini Ha, Custom CMS using Joomla, PHP, MySQL, XHTML, and CSS",
+            "stack": "Joomla, PHP, MySQL, XHTML, and CSS"
+        },
+        {
+            "title": "Princeton Sociology Department",
+            "domain": "sociology.princeton.edu",
+            "url": "sociology.princeton.edu",
+            "image": "sociology.jpg",
+            "when": 2009,
+            "role": "Web Development",
+            "description": "Web Development, Custom CMS built on PHP, XHTML, and CSS.",
+            "stack": "PHP, XHTML, Javascript, and CSS"
+        },
+        {
+            "title": "Comma",
+            "domain": "comma-nyc.com",
+            "url": "benjaminneedham.com/comma-nyc/",
+            "image": "comma.jpg",
+            "when": 2001,
+            "role": "Design and Development",
+            "description": "Design and Development for an architecture and furniture design firm, using JavaScript to load content when called, kinda like AJAX, except many years ago. HTML4, CSS, JavaScript, had to fit 800 x 600, old-school.",
+            "stack": "HTML, CSS, JavaScript"
+        },
+        {
+            "title": "IMP Online",
+            "domain": "imponline.com",
+            "url": "imponline.com",
+            "image": "imponline.jpg",
+            "when": 2012,
+            "role": "Development",
+            "description": "Custom drupal development, multilingual, custom Drupal modules, and bespoke e-commerce.",
+            "stack": "HTML5, CSS, JavaScript, PHP, Drupal"
+        },
+        {
+            "title": "Toxic Baby Blog",
+            "domain": "toxicbaby.com",
+            "url": "toxicbaby.com",
+            "image": "toxicbabyblog.jpg",
+            "when": 2010,
+            "role": "Development",
+            "description": "Development of just the blog section of a site. A challenging set of designs that I wrangled into reality. The sidebar widgets alone are worth looking into. Three weeks in 2010 with Deepend.",
+            "stack": "Wordpress, HTML5, jQuery, heavy on the CSS"
+        },
+        {
+            "title": "Loyal Kaspar",
+            "domain": "loyalkaspar.com",
+            "url": "loyalkaspar.com",
+            "image": "loyalkaspar.jpg",
+            "when": 2010,
+            "role": "Development",
+            "description": "Development, From within Wordpress, the client can change the colors, on a post by post basis. Wordpress as highly customized CMS. Four weeks in 2010 for these three sites with Deepend.",
+            "stack": "Wordpress, HTML5, CSS, jQuery, JavaScript"
+        },
+        {
+            "title": "Betterment Bureau",
+            "domain": "loyalkaspar.com/bbwd",
+            "url": "loyalkaspar.com/bbwd",
+            "image": "bettermentbureau.jpg",
+            "when": 2010,
+            "role": "Development",
+            "description": "Development, From within Wordpress, the client can change the colors, on a post by post basis. Wordpress as highly customized CMS. Four weeks in 2010 for these three sites with Deepend.",
+            "stack": "Wordpress, HTML5, CSS, jQuery, JavaScript"
+        },
+        {
+            "title": "Fondue",
+            "domain": "loyalkaspar.com/fondue",
+            "url": "loyalkaspar.com/fondue",
+            "image": "fondue.jpg",
+            "when": 2010,
+            "role": "Development",
+            "description": "Development, From within Wordpress, the client can change the colors, on a post by post basis. Wordpress as highly customized CMS. Four weeks in 2010 for these three sites with Deepend.",
+            "stack": "Wordpress, HTML5, CSS, jQuery, JavaScript"
+        },
+        {
+            "title": "Grandma's Kitchen",
+            "domain": "grandmaskitchen.com",
+            "url": "grandmaskitchen.com",
+            "image": "grandmaskitchen.jpg",
+            "when": 2012,
+            "role": "Development",
+            "description": "Custom drupal development, multilingual, custom Drupal modules, and bespoke e-commerce. Custom history mangement like a S.P.A. with an infinate asynch carousel.",
+            "stack": "HTML5, CSS, JavaScript, AJAX, PHP, Drupal"
+        },
+        {
+            "title": "Millward Brown",
+            "domain": "millwardbrown.com",
+            "url": "millwardbrown.com",
+            "image": "millwardbrown.jpg",
+            "when": 2010,
+            "role": "Front End Development",
+            "description": "Presentation layer over an ASP.NET CMS (Sitefinity), with a teammate who did the rest. One week in 2010 with Deepend.",
+            "stack": "HTML5, CSS, JavaScript, jQuery, Sitefinity"
+        },
+        {
+            "title": "Pure Circle",
+            "domain": "purecircle.com",
+            "url": "purecircle.com",
+            "image": "purecircle.jpg",
+            "when": 2010,
+            "role": "Front End Development",
+            "description": "Presentation layer and content implementation over an ASP.NET CMS (Sitefinity), with a teammate who set up the CMS and played server admin. Four weeks in 2010 with Deepend.",
+            "stack": "HTML5, CSS, JavaScript, jQuery, Sitefinity"
+        },
+        {
+            "title": "Helifilms USA",
+            "domain": "helifilmsusa.com",
+            "url": "helifilmsusa.com",
+            "image": "helifilms.jpg",
+            "when": 2011,
+            "role": "Development",
+            "description": "Development of a small static site in. About a week in 2011 with Deepend.",
+            "stack": "HTML5, CSS, and jQuery"
+        },
+        {
+            "title": "Take the Magic Step",
+            "domain": "takethemagicstep.com",
+            "url": "takethemagicstep.com",
+            "image": "ttms.jpg",
+            "when": 2006,
+            "role": "Development",
+            "description": "A severe customization of early Wordpress, tons of custom PHP in this one. Five weeks in 2006 with Deepend.",
+            "stack": "Wordpress, XHTML, JavaScript, CSS"
+        },
+        {
+            "title": "Hugo Neu",
+            "domain": "hugoneu.com",
+            "url": "hugoneu.com",
+            "image": "hugoneu.jpg",
+            "when": 2008,
+            "role": "Development",
+            "description": "Crafted this small static site with Deepend. I really like this one.",
+            "stack": "HTML5, CSS, and jQuery"
+        },
+        {
+            "title": "Stevia Pure Circle",
+            "domain": "steviapurecircle.com",
+            "url": "steviapurecircle.com",
+            "image": "steviapurecircle.jpg",
+            "when": 2010,
+            "role": "Front End Development",
+            "description": "Templating and content implementation in multiple languages over an ASP.NET CMS (Sitefinity), with a teammate who set up the CMS and played server admin. Three weeks in 2010 with Deepend.",
+            "stack": "HTML5, CSS, JavaScript, jQuery, Sitefinity"
+        },
+        {
+            "title": "Ben Tarnoff",
+            "domain": "bentarnoff.com",
+            "url": "bentarnoff.com",
+            "image": "bentarnoff.jpg",
+            "when": 2011,
+            "role": "Development",
+            "description": "Consulting, development and content migration from his old blog, simple Wordpress site using an infinite scroll plugin.",
+            "stack": "HTML5, CSS, JavaScript, PHP, Wordpress"
+        },
+        {
+            "title": "Immigrant Defense Project",
+            "domain": "immigrantdefenseproject.org",
+            "url": "immigrantdefenseproject.org",
+            "image": "idp.jpg",
+            "when": 2011,
+            "role": "Development",
+            "description": "Development from a friend's design. About 3 weeks in 2011",
+            "stack": "HTML5, CSS, JavaScript, PHP, Wordpress"
+        },
+        {
+            "title": "Nigel Hollis Blog",
+            "domain": "millwardbrown.com",
+            "url": "millwardbrown.com/Global/Blog/StraightTalk.aspx",
+            "image": "millwardbrownblog.jpg",
+            "when": 2010,
+            "role": "Front End Development",
+            "description": "Presentation layer (templating) over a .net CMS (Sitefinity), with a teammate who did the rest. About a week for the templates. One week in 2010 with Deepend.",
+            "stack": "HTML5, CSS, JavaScript"
+        },
+        {
+            "title": "Omnibuild",
+            "domain": "omnibuildllc.com",
+            "url": "omnibuildllc.com",
+            "image": "omnibuild.jpg",
+            "when": 2007,
+            "role": "Development",
+            "description": "Development of this small brochure site using Wordpress as a CMS.",
+            "stack": "Wordpress, HTML5, CSS"
+        },
+        {
+            "title": "core",
+            "domain": "co2rebuild.com",
+            "url": "co2rebuild.com",
+            "image": "core.jpg",
+            "when": 2007,
+            "role": "Development",
+            "description": "Development of this small brochure site using Wordpress as a CMS.",
+            "stack": "Wordpress, HTML5, CSS"
+        },
+        {
+            "title": "OTG Management",
+            "domain": "otgmanagement.com",
+            "url": "otgmanagement.com",
+            "image": "otgmanagement.jpg",
+            "when": 2009,
+            "role": "Development",
+            "description": "Small static site in HTML5 or XHTML, CSS, and jQuery. Three weeks in 2009, with Deepend.",
+            "stack": "HTML5, CSS, JavaScript"
+        },
+        {
+            "title": "Morality Of Objects",
+            "domain": "moralityofobjects.com",
+            "url": "moralityofobjects.com",
+            "image": "moo.jpg",
+            "when": 2007,
+            "role": "Web Development",
+            "description": "Bespoke development with unique navigation and layouts.",
+            "stack": "XHTML, JavaScript and CSS"
+        },
+        {
+            "title": "The Craic Fest",
+            "domain": "thecraicfest.com",
+            "url": "thecraicfest.com",
+            "image": "craic.jpg",
+            "when": 2011,
+            "role": "Web Development",
+            "description": "Designed by BigBully, custom Wordpress.",
+            "stack": "Wordpress, XHTML, JavaScript, CSS"
+        },
+        {
+            "title": "Live Games Network",
+            "domain": "livegamesnetwork.com",
+            "url": "livegamesnetwork.com",
+            "image": "lgn.jpg",
+            "when": 2007,
+            "role": "Web Development",
+            "description": "Designed by Deepend, custom Wordpress.",
+            "stack": "Wordpress, XHTML, JavaScript, CSS"
+        },
+        {
+            "title": "Unigo",
+            "domain": "unigo.com",
+            "url": "unigo.com",
+            "image": "unigo.jpg",
+            "when": 2007,
+            "role": "Web Development",
+            "description": "Designed by Deepend, custom Wordpress.",
+            "stack": "Wordpress, XHTML, JavaScript, CSS"
+        },
+        {
+            "title": "Earthtone",
+            "domain": "earthtone.net",
+            "url": "earthtone.net",
+            "image": "earthtone.jpg",
+            "when": 2008,
+            "role": "Development",
+            "description": "Designed by Deepend. Small static site in HTML5 or XHTML, CSS, and jQuery. ",
+            "stack": "HTML5, CSS, JavaScript"
+        },
+        {
+            "title": "Campaign For Little Britain",
+            "domain": "campaignforlittlebritain.com",
+            "url": "campaignforlittlebritain.com",
+            "image": "cflb.jpg",
+            "when": 2008,
+            "role": "Development",
+            "description": "Designed by Deepend. Achieved using Wordpress.",
+            "stack": "XHTML, CSS, PHP, MySQL and WordPress"
+        },
+        {
+            "title": "Eric Wilmot",
+            "domain": "ericwilmot.com",
+            "url": "ericwilmot.com",
+            "image": "ericwilmot.jpg",
+            "when": 2009,
+            "role": "Development",
+            "description": "Custom wordpress blog.",
+            "stack": "XHTML, CSS, PHP, MySQL and WordPress"
+        },
+        {
+            "title": "Clay Spa",
+            "domain": "insideclay.com",
+            "url": "insideclay.com",
+            "image": "clay.jpg",
+            "when": 2003,
+            "role": "Web Development",
+            "description": "Designed by Mimi O, custom site.",
+            "stack": "XHTML, CSS and JavaScript"
+        },
+        {
+            "title": "Area Linen Shop",
+            "domain": "arealinenshop.com",
+            "url": "arealinenshop.com",
+            "image": "area.jpg",
+            "when": 2009,
+            "role": "Web Development",
+            "description": "Custom e-commerce with Zen Cart",
+            "stack": "XHTML, CSS and JavaScript"
+        },
+        {
+            "title": "US Retirement Partners",
+            "domain": "usretirementpartners.com",
+            "url": "usretirementpartners.com",
+            "image": "usrp.jpg",
+            "when": 2005,
+            "role": "Web Development",
+            "description": "Designed by Deepend",
+            "stack": "XHTML, CSS and JavaScript"
+        },
+        {
+            "title": "Pratt Mansions",
+            "domain": "prattmansions.org",
+            "url": "prattmansions.org",
+            "image": "prattmansions.jpg",
+            "when": 2009,
+            "role": "Web Development",
+            "description": "Custom wordpress blog.",
+            "stack": "XHTML, CSS, WordPress"
+        },
+        {
+            "title": "Seble Maaza",
+            "domain": "seblemaaza.com",
+            "url": "seblemaaza.com",
+            "image": "seble-maaza.jpg",
+            "when": 2007,
+            "role": "Complete design and development",
+            "description": "Bespoke",
+            "stack": "HTML, CSS, Javascript"
+        },
+        {
+            "title": "Straight Talk with Nigel Hollis",
+            "domain": "mb-blog.com",
+            "url": "mb-blog.com",
+            "image": "millwardbrownblog.jpg",
+            "when": 2007,
+            "role": "Development FE & BE",
+            "description": "Web Development, Customized WordPress blog for a marketing analyst.",
+            "stack": "WordPress, HTML, CSS, Javascript"
+        },
+        {
+            "title": "Global Diversity Management",
+            "domain": "globaldiversitymanagement.com",
+            "url": "globaldiversitymanagement.com",
+            "image": "gdm.jpg",
+            "when": 2005,
+            "role": "Development",
+            "description": "Web Development",
+            "stack": "HTML5, Jquery javascript, and CSS"
+        }
+    ]
+}
